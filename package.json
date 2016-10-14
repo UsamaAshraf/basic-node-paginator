@@ -1,0 +1,27 @@
+{
+  "name": "basic-node-paginator",
+  "version": "1.2.6",
+  "description": "A basic, lightweight and independent paginator for the popular 'mysql' node module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsamaAshraf/basic-node-paginator.git"
+  },
+  "keywords": [
+    "basic",
+    "simple",
+    "node",
+    "paging",
+    "paginator"
+  ],
+  "author": "Usama Ashraf <uashraf588@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UsamaAshraf/basic-node-paginator/issues"
+  },
+  "homepage": "https://github.com/UsamaAshraf/basic-node-paginator#readme"
+  
+}
